@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-Array-Stack/02-Array-Stack.iml" filepath="$PROJECT_DIR$/02-Array-Stack/02-Array-Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-A-Stack-Problem-in-Leetcode/03-A-Stack-Problem-in-Leetcode.iml" filepath="$PROJECT_DIR$/03-A-Stack-Problem-in-Leetcode/03-A-Stack-Problem-in-Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/03-Stacks-and-Queues.iml" filepath="$PROJECT_DIR$/.idea/03-Stacks-and-Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Array-Queue/05-Array-Queue.iml" filepath="$PROJECT_DIR$/05-Array-Queue/05-Array-Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Loop-Queue/06-Loop-Queue.iml" filepath="$PROJECT_DIR$/06-Loop-Queue/06-Loop-Queue.iml" />
+    </modules>
+  </component>
+</project>
