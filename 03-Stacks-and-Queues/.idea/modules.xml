@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/03-Stacks-and-Queues.iml" filepath="$PROJECT_DIR$/.idea/03-Stacks-and-Queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-Array-Queue/05-Array-Queue.iml" filepath="$PROJECT_DIR$/05-Array-Queue/05-Array-Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-Loop-Queue/06-Loop-Queue.iml" filepath="$PROJECT_DIR$/06-Loop-Queue/06-Loop-Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Implementation-of-Loop_Queue/07-Implementation-of-Loop_Queue.iml" filepath="$PROJECT_DIR$/07-Implementation-of-Loop_Queue/07-Implementation-of-Loop_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-Queues-Comparison/08-Queues-Comparison.iml" filepath="$PROJECT_DIR$/08-Queues-Comparison/08-Queues-Comparison.iml" />
     </modules>
   </component>
 </project>
