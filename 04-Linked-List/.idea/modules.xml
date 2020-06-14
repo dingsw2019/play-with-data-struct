@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Linked-List-Basics/01-Linked-List-Basics.iml" filepath="$PROJECT_DIR$/01-Linked-List-Basics/01-Linked-List-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-DummyHead-in-LinkedList/03-DummyHead-in-LinkedList.iml" filepath="$PROJECT_DIR$/03-DummyHead-in-LinkedList/03-DummyHead-in-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/04-Linked-List.iml" filepath="$PROJECT_DIR$/.idea/04-Linked-List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Query-and-update-in-LinkedList/04-Query-and-update-in-LinkedList.iml" filepath="$PROJECT_DIR$/04-Query-and-update-in-LinkedList/04-Query-and-update-in-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Remove-Element-in-LinkedList/05-Remove-Element-in-LinkedList.iml" filepath="$PROJECT_DIR$/05-Remove-Element-in-LinkedList/05-Remove-Element-in-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Implement-Stack-in-LinkedList/06-Implement-Stack-in-LinkedList.iml" filepath="$PROJECT_DIR$/06-Implement-Stack-in-LinkedList/06-Implement-Stack-in-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Implement-Queue-in-LinkedList/07-Implement-Queue-in-LinkedList.iml" filepath="$PROJECT_DIR$/07-Implement-Queue-in-LinkedList/07-Implement-Queue-in-LinkedList.iml" />
+    </modules>
+  </component>
+</project>
