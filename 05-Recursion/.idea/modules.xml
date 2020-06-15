@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Linked-List-Problems-in-Leetcode/01-Linked-List-Problems-in-Leetcode.iml" filepath="$PROJECT_DIR$/01-Linked-List-Problems-in-Leetcode/01-Linked-List-Problems-in-Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Test-Your-LinkedList-Solution/02-Test-Your-LinkedList-Solution.iml" filepath="$PROJECT_DIR$/02-Test-Your-LinkedList-Solution/02-Test-Your-LinkedList-Solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Recursion-Basics/03-Recursion-Basics.iml" filepath="$PROJECT_DIR$/03-Recursion-Basics/03-Recursion-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-LinkedList-and-Recursion/04-LinkedList-and-Recursion.iml" filepath="$PROJECT_DIR$/04-LinkedList-and-Recursion/04-LinkedList-and-Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/05-Recursion.iml" filepath="$PROJECT_DIR$/.idea/05-Recursion.iml" />
+    </modules>
+  </component>
+</project>
