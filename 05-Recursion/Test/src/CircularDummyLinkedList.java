@@ -1,3 +1,5 @@
+import java.util.Random;
+
 public class CircularDummyLinkedList<E> {
 
     public Node<E> dummyHead, tail;
@@ -86,10 +88,21 @@ public class CircularDummyLinkedList<E> {
         return -1;
     }
 
+    // 获取随机元素
+    public Node<E> getRandomNode(){
+        if (isEmpty())
+            throw new IllegalArgumentException("random failed. empty list");
+
+        Random random = new Random();
+        int index = random.nextInt(size);
+        return getNode(index);
+    }
+
+    // 获取指定index的元素地址
     public Node<E> getNode(int index){
 
         if (index < 0 || index >= size)
-            throw new IllegalArgumentException("getNode failed.");
+            throw new IllegalArgumentException("get node failed.");
 
         Node<E> cur = dummyHead.next;
         for (int i = 0; i < index; i++)
@@ -97,21 +110,23 @@ public class CircularDummyLinkedList<E> {
         return cur;
     }
 
-    public Node<E> getOffset(Node<E> cur,int offset){
+    // 获取下一个元素地址, 跳过dummyHead
+    public Node<E> getNextNode(Node<E> node){
+        if (node == tail)
+            node = node.next;
+        return node.next;
+    }
 
-//        System.out.println("getOffset, cur: " + cur.e);
-        for (int i=0; i<offset; i++) {
-            if (cur == tail){
-                cur = cur.next;
-//                System.out.println("dummy: " + i + ", cur: " + cur.e);
-            }
-            cur = cur.next;
-//            System.out.println("i: " + i + ", cur: " + cur.e);
-        }
+    // 获取指定元素之后,偏移 offset 个元素的元素
+    public Node<E> getOffsetNode(Node<E> cur,int offset){
+
+        for (int i=0; i<offset; i++)
+            cur = getNextNode(cur);
 
         return cur;
     }
 
+    // 按元素地址删除元素
     public E removeNode(Node<E> cur){
 
         Node<E> prev = dummyHead.next;
@@ -128,26 +143,7 @@ public class CircularDummyLinkedList<E> {
 
         return cur.e;
     }
-
-//    public E removeOffset(int index,int offset){
-//        int i = getOffset(index,offset);
-//        if (i < 0 || i > size)
-//            return null;
-//
-//        return remove(i);
-//    }
-
-    public int getNextId(int index){
-
-        return (index+1)%size;
-    }
-
-    public Node<E> getNextNode(Node<E> node){
-        if (node == tail)
-            node = node.next;
-        return node.next;
-    }
-
+    
     @Override
     public String toString(){
         StringBuilder res = new StringBuilder();

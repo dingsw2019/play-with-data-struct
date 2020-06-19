@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-Binary-Search-Tree-Basics/02-Binary-Search-Tree-Basics.iml" filepath="$PROJECT_DIR$/02-Binary-Search-Tree-Basics/02-Binary-Search-Tree-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Add-Elements-in-BST/03-Add-Elements-in-BST.iml" filepath="$PROJECT_DIR$/03-Add-Elements-in-BST/03-Add-Elements-in-BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Improved-Add-Elements-in-BST/04-Improved-Add-Elements-in-BST.iml" filepath="$PROJECT_DIR$/04-Improved-Add-Elements-in-BST/04-Improved-Add-Elements-in-BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Search-in-BST/05-Search-in-BST.iml" filepath="$PROJECT_DIR$/05-Search-in-BST/05-Search-in-BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/06-Binary-Search-Tree.iml" filepath="$PROJECT_DIR$/.idea/06-Binary-Search-Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-PreOrder-Traverse-in-BST/06-PreOrder-Traverse-in-BST.iml" filepath="$PROJECT_DIR$/06-PreOrder-Traverse-in-BST/06-PreOrder-Traverse-in-BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-InOrder-and-PostOrder-Traverse-in-BST/07-InOrder-and-PostOrder-Traverse-in-BST.iml" filepath="$PROJECT_DIR$/07-InOrder-and-PostOrder-Traverse-in-BST/07-InOrder-and-PostOrder-Traverse-in-BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-Non-Recursion-Preorder-Traverse-in-BST/09-Non-Recursion-Preorder-Traverse-in-BST.iml" filepath="$PROJECT_DIR$/09-Non-Recursion-Preorder-Traverse-in-BST/09-Non-Recursion-Preorder-Traverse-in-BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Level-Traverse-in-BST/10-Level-Traverse-in-BST.iml" filepath="$PROJECT_DIR$/10-Level-Traverse-in-BST/10-Level-Traverse-in-BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Remove-Min-and-Max-in-BST/11-Remove-Min-and-Max-in-BST.iml" filepath="$PROJECT_DIR$/11-Remove-Min-and-Max-in-BST/11-Remove-Min-and-Max-in-BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Remove-Elements-in-BST/12-Remove-Elements-in-BST.iml" filepath="$PROJECT_DIR$/12-Remove-Elements-in-BST/12-Remove-Elements-in-BST.iml" />
+    </modules>
+  </component>
+</project>
