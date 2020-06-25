@@ -50,4 +50,18 @@ public class Solution<E> {
             res.add(pq.dequeue().e);
         return res;
     }
+
+    private static void printList(List<Integer> nums){
+        for(Integer num: nums)
+            System.out.print(num + " ");
+        System.out.println();
+    }
+
+    public static void main(String[] args) {
+
+        int[] nums = {1, 1, 1, 2, 2, 3};
+        int k = 2;
+        printList((new Solution()).topKFrequent(nums, k));
+    }
+
 }
