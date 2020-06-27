@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/03-Building-Segment-Tree/03-Building-Segment-Tree.iml" filepath="$PROJECT_DIR$/03-Building-Segment-Tree/03-Building-Segment-Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Segment-Tree-Problems-in-Leetcode/05-Segment-Tree-Problems-in-Leetcode.iml" filepath="$PROJECT_DIR$/05-Segment-Tree-Problems-in-Leetcode/05-Segment-Tree-Problems-in-Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/09-Segment-Tree.iml" filepath="$PROJECT_DIR$/.idea/09-Segment-Tree.iml" />
     </modules>
   </component>
