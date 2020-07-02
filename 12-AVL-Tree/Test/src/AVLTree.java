@@ -212,7 +212,7 @@ public class AVLTree<K extends Comparable<K>,V> {
 
             // 左右子树不为空
             } else {
-                Node successor = minimum(node);
+                Node successor = minimum(node.right);
                 successor.right = remove(node.right,successor.key);
                 successor.left = node.left;
                 
