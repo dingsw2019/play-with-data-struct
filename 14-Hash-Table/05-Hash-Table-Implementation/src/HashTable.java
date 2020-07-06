@@ -68,6 +68,7 @@ public class HashTable<K, V> {
             if (size < lowerTol*M && M / 2 >= initCapacity)
                 resize(M / 2);
         }
+        
         return ret;
     }
 
