@@ -7,7 +7,7 @@ public class Main {
         int size = 100000;
         int m = 100000;
 
-        UnionFind uf = new UnionFind(m);
+        UnionFind3 uf = new UnionFind3(m);
         Random random = new Random();
 
         double startTime = System.nanoTime();

@@ -21,10 +21,6 @@ public class AVLTree<K extends Comparable<K>,V> {
             right = null;
             height = 1; // 初始节点高度为 1
         }
-
-        public Node(){
-            this(null,null);
-        }
     }
 
     // 根节点
@@ -33,7 +29,7 @@ public class AVLTree<K extends Comparable<K>,V> {
     public int size;
 
     public AVLTree(){
-        root = new Node();
+        root = null;
         size = 0;
     }
 

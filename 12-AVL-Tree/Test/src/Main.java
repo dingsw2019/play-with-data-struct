@@ -10,7 +10,7 @@ public class Main {
 
             long startTime = System.nanoTime();
 
-            AVLTree2<String,Integer> avl = new AVLTree2<>();
+            AVLTree3<String,Integer> avl = new AVLTree3<>();
             for (String word : words){
                 if (avl.contains(word))
                     avl.set(word, avl.get(word) + 1);
