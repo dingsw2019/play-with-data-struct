@@ -1,9 +1,9 @@
 public class PriorityQueue<E extends Comparable<E>> implements Queue<E> {
 
-    private MaxHeap<E> mapHeap;
+    private MaxHeap2<E> mapHeap;
 
     public PriorityQueue(){
-        mapHeap = new MaxHeap<>();
+        mapHeap = new MaxHeap2<>();
     }
 
     @Override
