@@ -14,7 +14,7 @@ public class Main {
             System.out.println();
 
             startTime = System.nanoTime();
-            Trie trie = new Trie();
+            Trie4 trie = new Trie4();
             for (String word : words)
                 trie.add(word);
 

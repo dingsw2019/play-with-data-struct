@@ -228,7 +228,7 @@ public class Array<E> {
     // Override, 告诉编辑器这是一个覆盖父类的方法,
     // 如果父类不存在此方法, 会提示
     @Override
-    public String toString() {
+    public String toStrinsg() {
         StringBuilder res = new StringBuilder();
         res.append(String.format("Array: size = %d , capacity = %d\n", size, data.length));
         res.append('[');
