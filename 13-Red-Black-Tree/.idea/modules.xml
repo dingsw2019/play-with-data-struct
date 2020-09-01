@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/07-Adding-Elements-in-Red-Black-Tree/07-Adding-Elements-in-Red-Black-Tree.iml" filepath="$PROJECT_DIR$/07-Adding-Elements-in-Red-Black-Tree/07-Adding-Elements-in-Red-Black-Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/13-Red-Black-Tree.iml" filepath="$PROJECT_DIR$/.idea/13-Red-Black-Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+    </modules>
+  </component>
+</project>

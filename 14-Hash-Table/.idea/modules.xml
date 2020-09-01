@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Hash-Table-Basics/01-Hash-Table-Basics.iml" filepath="$PROJECT_DIR$/01-Hash-Table-Basics/01-Hash-Table-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Hash-Function-in-Java/03-Hash-Function-in-Java.iml" filepath="$PROJECT_DIR$/03-Hash-Function-in-Java/03-Hash-Function-in-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Hash-Table-Implementation/05-Hash-Table-Implementation.iml" filepath="$PROJECT_DIR$/05-Hash-Table-Implementation/05-Hash-Table-Implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/14-Hash-Table.iml" filepath="$PROJECT_DIR$/.idea/14-Hash-Table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+    </modules>
+  </component>
+</project>

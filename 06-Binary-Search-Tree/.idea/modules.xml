@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/10-Level-Traverse-in-BST/10-Level-Traverse-in-BST.iml" filepath="$PROJECT_DIR$/10-Level-Traverse-in-BST/10-Level-Traverse-in-BST.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Remove-Min-and-Max-in-BST/11-Remove-Min-and-Max-in-BST.iml" filepath="$PROJECT_DIR$/11-Remove-Min-and-Max-in-BST/11-Remove-Min-and-Max-in-BST.iml" />
       <module fileurl="file://$PROJECT_DIR$/12-Remove-Elements-in-BST/12-Remove-Elements-in-BST.iml" filepath="$PROJECT_DIR$/12-Remove-Elements-in-BST/12-Remove-Elements-in-BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test2/Test2.iml" filepath="$PROJECT_DIR$/Test2/Test2.iml" />
     </modules>
   </component>
 </project>
