@@ -7,7 +7,7 @@ type Array struct {
 
 func New(capacity int) *Array {
 	return &Array{
-		data: make([]int,capacity),
+		data: make([]int, capacity),
 	}
 }
 
